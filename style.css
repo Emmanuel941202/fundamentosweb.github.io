@@ -1,0 +1,77 @@
+* { 
+    box-sizing: border-box;
+}
+#logo  {
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    
+}
+
+nav ul { 
+    list-style: none;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    text-decoration-color: rgb(94, 228, 161);
+    }
+
+nav li {
+    margin: 10px;
+    }
+
+nav a {
+    text-decoration: none;
+    color: rgb(12, 111, 78);
+    font-family: arial;
+}
+
+body {
+    background-color: #d9d9d9;
+    line-height: 1.7;
+}
+
+
+#cabeza2 { text-align: center;
+           font-family: arial;
+           color: rgb(12, 111, 78);
+        }
+
+#textoprincipal {
+     text-align: justify;
+     margin-top: 0%;
+     margin-left: 20%;
+     margin-bottom: 5%;
+     margin-right: 20%;
+     font-size: large;
+     font-family: arial;
+
+}
+
+p { 
+    border: 3px green solid;
+    padding: 3px;
+    
+    }
+
+#bici1 {  
+    width: 200;
+    height: 400;
+    justify-content: center;
+    float: right;
+}
+
+h2 {
+     border: 3px rgb(5, 103, 6) solid;
+     width: 180;
+     height: 150;
+     }
+
+     .contenedor {
+        width: 35%;
+        margin: 0 auto;
+     }
+    
+   
+
+
