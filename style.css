@@ -16,6 +16,8 @@ nav ul {
     text-decoration-color: rgb(94, 228, 161);
     }
 
+nav ul :hover {background-color: rgb(167, 231, 167);}
+
 nav li {
     margin: 10px;
     }
